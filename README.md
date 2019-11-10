@@ -10,6 +10,6 @@ Sample website with plenty of files for demos
 
 We will learn to how to contribute to the open-source.
 
-## How to deploy 
+## How to deploy
 
-
+* Deployment should be on JBoss Application Server.
